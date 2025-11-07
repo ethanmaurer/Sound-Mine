@@ -1,7 +1,0 @@
-SoundMine - Simple Custom App
-
-This is a simple, custom-built desktop soundboard application. 
-It's a personal project created for basic audio playback needs.
-
-No warranties or guarantees are provided. Use at your own discretion.
-
